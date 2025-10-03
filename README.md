@@ -1,2 +1,4 @@
 # Kyrie
-learning diary
+personal learning diary
+self-improving
+be yourself
