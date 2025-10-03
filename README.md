@@ -1,4 +1,4 @@
 # Kyrie
-personal learning diary
-self-improving
-be yourself
+personal learning diary/n
+self-improving/n
+be yourself/n
